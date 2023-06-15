@@ -2,6 +2,9 @@
 Ryan Jarrett
 Dean and Honor Test
 This app checks to see if a student qualifies to be on either the Dean's List or the Honor Roll
+firstName is mostly there for coherence in printing student names
+lastName is to check when the program needs to terminate
+studentGPA is to find out which list the student made, if any
 """
 
 firstName = input("Enter student's first name: ")
